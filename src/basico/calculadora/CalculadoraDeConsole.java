@@ -1,4 +1,4 @@
-package basico;
+package basico.calculadora;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
